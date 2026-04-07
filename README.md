@@ -9,6 +9,13 @@ An automated GitHub App that reviews pull requests using Gemini AI — posting a
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
 
 ---
+## Sample
+
+<img width="1898" height="838" alt="image" src="https://github.com/user-attachments/assets/780783e1-ab18-40e4-a50c-93e10aa06e35" />
+
+
+
+---
 
 ## How It Works
 
